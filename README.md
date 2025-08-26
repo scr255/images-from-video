@@ -1,4 +1,4 @@
-# Images-From-Video
+# images-from-video
 Take snapshots out of video file(s) at regular intervals using OpenCV and multiprocessing.
 
 <a target="_blank" href="https://colab.research.google.com/github/scr255/Images-From-Video/blob/main/images_from_video.ipynb">
