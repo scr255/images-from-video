@@ -1,4 +1,1 @@
-black
-isort
-jupyterlab_code_formatter
-opencv-python
+opencv-python==4.13.0.92
